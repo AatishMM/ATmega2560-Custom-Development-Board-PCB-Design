@@ -81,6 +81,7 @@ Refer to `stackup/ATMEGA2560_Layer_Stackup.png` for details.
 ### Schematic
 ![Schematic](ATMEGA2560_Schematic_Main.png)
 ![Schematic](ATMEGA2560_Schematics_Power.png)
+![Schematic](0fae016e9db771c2d42c47fcf23b6fc6a3e1408c)
 
 
 ## 📄 License
